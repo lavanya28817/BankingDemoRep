@@ -1,0 +1,64 @@
+https://git-scm.com/download/win/
+
+
+
+
+
+https://github.com/pavanonlinetraining/nopCommerce_V001.git
+
+
+project :==
+**********
+URL:http://demo.guru99.com/v4/index.php
+USERID:mngr326886
+PASSWORD:mYrAnej
+
+gmail username:madirelavanya21@gmail.com
+password: ml@v@nya
+
+
+
+github
+
+username:madirelaxmi
+password:class@eight2018
+email:madirelavanya21@gmail.com
+
+http://mirrors.estointernet.in/apache/maven/maven-3/3.6.0/biaries/apache-maven-3.6.0-bin.zip
+
+
+C:\apache-maven-3.8.1\bin
+gmail.com
+*********
+gmail username:madirelavanya21@gmail.com
+password: ml@v@nya
+
+github1
+******
+usename:
+password:classeight2018
+email:msg2klavanya@gmail.com
+
+github2
+******
+username:madirelaxmi
+password:class@eight2018
+email:madirelavanya21@gmail.com
+
+oracle
+*****
+msg2klavanya@gmail.com
+Lavanya@123
+Java_home
+c:\Program Files\Java\Jdk-11.0.10
+----
+
+Jenkins
+*********
+UID: Lava
+PWD: Lava@0102
+
+makemytrip
+***********
+UID:msg2klavanya@gmail.com
+password:class@2018
